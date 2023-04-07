@@ -1,0 +1,22 @@
+.signUp {
+    width: 380px;
+    background-color: #ccc;
+    padding: 20px;
+    margin: 70px auto 0px;
+    border-radius: 20px;
+}
+
+.signUp button.btn.btn-primary {
+    background-color: grey;
+    margin-top: 20px;
+    border: 0px;
+}
+
+.signUp p.bottom-text {
+    text-align: right;
+    padding-top: 15px;
+}
+
+.signUp h3 {
+    text-align: center;
+}

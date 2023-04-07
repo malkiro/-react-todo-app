@@ -1,0 +1,22 @@
+.login {
+    width: 380px;
+    background-color: #ccc;
+    padding: 20px;
+    margin: 70px auto 0px;
+    border-radius: 20px;
+}
+
+.login button.btn.btn-primary {
+    background-color: grey;
+    margin-top: 20px;
+    border: 0px;
+}
+
+.login p.bottom-text {
+    text-align: right;
+    padding-top: 15px;
+}
+
+.login h3 {
+    text-align: center;
+}

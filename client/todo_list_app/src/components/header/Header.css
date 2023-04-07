@@ -1,0 +1,25 @@
+.header {
+    background-color: #bc73eb;
+}
+
+.headerRight {
+    display: flex;
+    justify-content: end;
+    margin: 0px 50px;
+    padding: 10px;
+    align-items: center;
+}
+
+.headerRight h2 {
+    margin-right: 50px;
+    color: white;
+}
+
+.headerRight button {
+    height: 40px;
+    padding: 0px 50px;
+    background-color: lightslategrey;
+    border-radius: 20px;
+    border: 1px solid;
+    color: white;
+}
